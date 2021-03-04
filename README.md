@@ -27,7 +27,7 @@ cour7 -> gks_7
     padding: 0px;
     margin: 0px;
     display: table;
-    background-color: green;
+    background-color: black;
   }
   
   .cour2 {
@@ -39,21 +39,45 @@ cour7 -> gks_7
     transition: width 1s;
     -webkit-transition: width 1s;
   }
+   .cour25 {
+    max-width: 100%;
+    height: auto;
+    background-image: url('https://i.imgur.com/jlYCmpm.jpg?1');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: black;
+  }
   .cour24 {
-    background-image: url('https://i.imgur.com/cLQKfgo.jpg');
-    background-color: red;
+    max-width: 100%;
+    height: auto;
+    background-image: url('https://i.imgur.com/Hq8VqMT.jpg?1');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: black;
   }
   .cour23 {
-    background-image: url('https://i.imgur.com/v3klJf4.jpg');
-    background-color: blue;
+    max-width: 100%;
+    height: auto;
+    background-image: url('https://i.imgur.com/ST6s9ht.jpg?1');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: black;
   }
   .cour22 {
-    background-image: url('https://i.imgur.com/yhWqdnk.jpg');
-    background-color: purple;
+    max-width: 100%;
+    height: auto;
+    background-image: url('https://i.imgur.com/jlYCmpm.jpg?1');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: black;
   }
   .cour21 {
-    background-image: url('https://i.imgur.com/DfO9EBC.jpg');
-    background-color: green;
+    max-width: 100%;
+    height: auto;
+    background-image: url('https://i.imgur.com/iUYeqxE.jpg?1');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: black;
   }
   
   .cour1:not(:hover) > .cour21 {
@@ -77,7 +101,7 @@ cour7 -> gks_7
     transition: opacity 1s;
   }
   .cour51 {
-    left: 175px;
+    left: 200px;
   }
   .cour52 {
   }
@@ -120,7 +144,7 @@ cour7 -> gks_7
   }
   
   .cour6 {
-    background-color: rgba(255,204,0,0);
+    background-color: #00ffcc;
     transition: background-color 1s, opacity 1s;
     
     -moz-border-radius: 100px / 50px;
@@ -128,7 +152,7 @@ cour7 -> gks_7
     border-radius: 150px / 50px;
   }
   .cour6:hover {
-    background-color: rgba(255,204,0,1);
+    background-color: #00ffcc;
   }
   
   
