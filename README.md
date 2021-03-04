@@ -42,7 +42,7 @@ cour7 -> gks_7
    .cour25 {
     max-width: 100%;
     height: auto;
-    background-image: url('https://i.imgur.com/jlYCmpm.jpg?1');
+    background-image: url('https://i.imgur.com/BxLMbRn.png');
     background-position: center;
     background-repeat: no-repeat;
     background-color: black;
@@ -50,7 +50,7 @@ cour7 -> gks_7
   .cour24 {
     max-width: 100%;
     height: auto;
-    background-image: url('https://i.imgur.com/Hq8VqMT.jpg?1');
+    background-image: url('https://i.imgur.com/JQalKvs.png');
     background-position: center;
     background-repeat: no-repeat;
     background-color: black;
@@ -58,7 +58,7 @@ cour7 -> gks_7
   .cour23 {
     max-width: 100%;
     height: auto;
-    background-image: url('https://i.imgur.com/ST6s9ht.jpg?1');
+    background-image: url('https://i.imgur.com/QtKkrsf.png');
     background-position: center;
     background-repeat: no-repeat;
     background-color: black;
@@ -66,7 +66,7 @@ cour7 -> gks_7
   .cour22 {
     max-width: 100%;
     height: auto;
-    background-image: url('https://i.imgur.com/jlYCmpm.jpg?1');
+    background-image: url('https://i.imgur.com/BiEvLSx.png');
     background-position: center;
     background-repeat: no-repeat;
     background-color: black;
@@ -74,7 +74,7 @@ cour7 -> gks_7
   .cour21 {
     max-width: 100%;
     height: auto;
-    background-image: url('https://i.imgur.com/iUYeqxE.jpg?1');
+    background-image: url('https://i.imgur.com/eHV5vUd.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-color: black;
